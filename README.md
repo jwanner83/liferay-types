@@ -5,7 +5,7 @@ to a public repository yet, but we use it in a similar version at our own compan
 ### Usage
 1. Install the package as a devDependency
 ```
-yarn add -D @parl/types
+yarn add -D @liferay/types
 ```
 2. Add it to the `include` array in your tsconfig.json
 ```
