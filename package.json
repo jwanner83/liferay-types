@@ -1,6 +1,6 @@
 {
   "name": "@liferay/types",
-  "description": "Typings for the Liferay global object.",
+  "description": "Typings for the global Liferay object",
   "version": "1.0.0",
   "types": "index.d.ts",
   "files": [
