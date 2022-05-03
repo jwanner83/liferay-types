@@ -1,0 +1,12 @@
+{
+  "name": "@liferay/types",
+  "description": "Typings for the Liferay global object.",
+  "version": "1.0.0",
+  "types": "index.d.ts",
+  "files": [
+    "index.d.ts",
+    "liferay.d.ts"
+  ],
+  "author": "Jonas Wanner",
+  "license": "MIT"
+}
